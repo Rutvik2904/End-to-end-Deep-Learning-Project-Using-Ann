@@ -31,8 +31,8 @@ An end-to-end Deep Learning web application that predicts whether a bank custome
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repository-url>
-   cd <your-repository-folder>
+   git clone https://github.com/Rutvik2904/End-to-end-Deep-Learning-Project-Using-Ann
+   cd Project Using Ann
    ```
 
 2. **Create and activate a virtual environment (recommended)**
